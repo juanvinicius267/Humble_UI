@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Humble", "Humble\Humble.csproj", "{8A0FD21F-1A29-4181-8363-A81DDC6E41E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumbleControlTower", "HumbleControlTower\HumbleControlTower.csproj", "{FFAC6DB6-A582-4131-B872-F2A14FBD18EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A0FD21F-1A29-4181-8363-A81DDC6E41E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0FD21F-1A29-4181-8363-A81DDC6E41E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0FD21F-1A29-4181-8363-A81DDC6E41E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0FD21F-1A29-4181-8363-A81DDC6E41E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFAC6DB6-A582-4131-B872-F2A14FBD18EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAC6DB6-A582-4131-B872-F2A14FBD18EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAC6DB6-A582-4131-B872-F2A14FBD18EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAC6DB6-A582-4131-B872-F2A14FBD18EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6794B7EC-2EF6-415E-BD10-7EF22DACB22A}
+	EndGlobalSection
+EndGlobal
